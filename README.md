@@ -8,6 +8,9 @@ _Local LLM Aggregator and Maximizer_
   </picture>
 </p>
 
+> [!WARNING]
+> This is pre-alpha. It is not yet conformant or safe for real execution.
+
 > One governed, OpenAI-compatible endpoint for the local LLM services you trust.
 
 **`llm-vampire`** discovers, normalizes, and combines owner-approved local LLM
